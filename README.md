@@ -1,4 +1,4 @@
-# Flight Price Prediction with PyTorch
+# Flight Price Prediction Model
 
 Flight Price Prediction with PyTorch is an end-to-end machine learning project that predicts airline ticket prices using a custom neural network implemented from scratch in PyTorch. The dataset used in this project was obtained from Kaggle.
 
